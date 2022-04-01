@@ -1,4 +1,6 @@
-# Ativo&Operante
+<h1 align="center">Ativo & Operante</h1>
+
+## About 🎯
 Seja um cidadão atento aos problemas do dia a dia. Avise e denuncie de forma eficiente e rápida os problemas que encontrar na sua comunidade. Instale o app Ativo e Operante!
 
 O sistema é composto por um App Android e um Sistema Web capaz de oferecer uma ferramenta ao cidadão que deseja avisar ou denunciar aos orgãos competentes sobre problemas na cidade, como buracos na rua, abandono de animais, poda ou corte de árvores, problemas no trânsito, enfim qualquer contratempo que pode afetar o dia a dia do cidadão.
