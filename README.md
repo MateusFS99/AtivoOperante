@@ -1,10 +1,26 @@
-<h1 align="center">Ativo & Operante</h1>
+[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/AtivoOperante)](https://github.com/MateusFS99/AtivoOperante/commits/main)
+
+<h1 align="center">
+    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655153221~hmac=83b57c3638be78adac1bd6829ba26e88" width="32px" height="32px"> 
+    Ativo & Operante
+    <img src="https://cdn-icons.flaticon.com/png/512/2686/premium/2686454.png?token=exp=1655153221~hmac=83b57c3638be78adac1bd6829ba26e88" width="32px" height="32px">
+</h1>
 
 ## About 🎯
-Seja um cidadão atento aos problemas do dia a dia. Avise e denuncie de forma eficiente e rápida os problemas que encontrar na sua comunidade. Instale o app Ativo e Operante!
 
-O sistema é composto por um App Android e um Sistema Web capaz de oferecer uma ferramenta ao cidadão que deseja avisar ou denunciar aos orgãos competentes sobre problemas na cidade, como buracos na rua, abandono de animais, poda ou corte de árvores, problemas no trânsito, enfim qualquer contratempo que pode afetar o dia a dia do cidadão.
+Be a citizen attentive to the problems of everyday life. Efficiently and quickly notify and report issues you encounter in your community. Install the ``Ativo e Operante`` app!
 
-O App Android permite o acesso de pessoas autenticadas e assim fornece o módulo de denúncia, na qual o usuário conseguirá registrar uma denúncia informando um título, uma descrição, o nível de urgência, o orgão competente e o tipo de problema. Após preenchida a denúnia, ela é enviada ao Sistema Web e recebida por uma API Rest.
+The system consists of an Android App and a Web System capable of offering a tool to citizens who want to notify or report to the competent bodies about problems in the city, such as potholes in the street, abandonment of animals, pruning or cutting of trees, traffic problems, in short, any setback that can affect the daily life of the citizen.
 
-O Sistema Web foi desenvolvido em Spring Boot e além dos serviços (APIs) para interagir com o app, ele oferece um módulo para o responsável pelo sistema cadastrar os orgãos responsáveis e os tipos de de problema, além de possuir uma interface que permite listar e visualizar todas as denúncias, com opções para deletar e alterar as mesmas.
+The Android App allows access to authenticated people and thus provides the complaint module, in which the user will be able to register a complaint informing a title, a description, the level of urgency, the competent body and the type of problem. After filling in the complaint, it is sent to the Web System and received by an API Rest.
+
+The Web System was developed in Spring Boot and in addition to the services (APIs) to interact with the app, it offers a module for the person responsible for the system to register the responsible bodies and the types of problems, in addition to having an interface that allows to list and view all reports, with options to delete and change them.
+
+## Technologies 💻
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## License 📝
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
