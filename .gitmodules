@@ -1,0 +1,6 @@
+[submodule "AtivoOperante-SpringBoot"]
+	path = AtivoOperante-SpringBoot
+	url = https://github.com/MateusFS99/AtivoOperante-SpringBoot
+[submodule "AtivoOperante-Android"]
+	path = AtivoOperante-Android
+	url = https://github.com/MateusFS99/AtivoOperante-Android
